@@ -21,6 +21,13 @@ A Python program that processes shipment records and applies discounts based on 
 
 ---
 
+## Commands  
+
+- To run: python main.py
+- To test: python -m unittest test_main.py
+
+---
+
 ##  Contact
 
 Created by Ignas V   
