@@ -23,9 +23,8 @@ A Python program that processes shipment records and applies discounts based on 
 
 ##  Contact
 
-Created by Ignas V 
+Created by Ignas V   
 Email: ignas.valiukas@gmail.com  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 ---
 
