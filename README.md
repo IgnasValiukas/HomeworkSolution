@@ -21,6 +21,13 @@ A Python program that processes shipment records and applies discounts based on 
 
 ---
 
+## Code Language & Version
+- Language - Python
+- Version - Python 3.13.3
+  
+
+---
+
 ## Commands  
 
 - To run: python main.py
