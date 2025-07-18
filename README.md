@@ -29,3 +29,11 @@ A Python program that processes shipment records and applies discounts based on 
 ├── main.py            # Main logic to read input and apply discounts
 ├── unit_test.py       # Unit tests for discount functionality
 ├── README.md          # This file
+
+---
+
+## Contact
+
+Created by [Your Name]  
+Email: your.email@example.com  
+GitHub: [github.com/yourusername](https://github.com/yourusername)
