@@ -23,8 +23,8 @@ A Python program that processes shipment records and applies discounts based on 
 
 ##  Contact
 
-Created by [Your Name]  
-Email: your.email@example.com  
+Created by Ignas V 
+Email: ignas.valiukas@gmail.com  
 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 ---
